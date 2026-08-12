@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Stefan Samokhval
@@ -49,7 +48,6 @@ const stefan = {
 
   mindset: "turn messy business logic into clean backend systems",
 };
-````
 
 ---
 
