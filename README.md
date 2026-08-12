@@ -55,15 +55,6 @@ Learning **Go** for production backend development — concurrency, goroutines, 
   </picture>
 </p>
 
-### 📊 GitHub
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=monxchrome&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monxchrome&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=6" />
-
-</div>
-
 <div align="center">
 
 `ship → measure → improve → repeat`
